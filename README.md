@@ -4,6 +4,6 @@
 
 {3} : VIT{ar3_\0u_see_me?}
 
-{4} : VIT{Niagara_Falls}
+{4} : VIT{niagara_falls}
 
 {5} : VIT{d0es_any0ne_see_me?}
